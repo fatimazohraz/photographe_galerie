@@ -2,14 +2,6 @@
 	margin:0;
 	box-sizing: border-box;
 }
-body{
-	background:linear-gradient(70deg, #46395a, #aebbd6);
-	height: 100vh;
-	background-size: cover;
-	background-position: center;
-}
-
-
 .container{
 	max-width: 1170px;
 	margin:auto;
