@@ -13,6 +13,6 @@ https://github.com/fatimazohraz/siteWebPhotographeCharlesCantin
 
 
 ## deployement
-j'ai deplayer le repository sur le site netlify: https://www.netlify.com/
-
-lien du site: 
+j'ai deplayer le repository sur le site netlify:
+ 
+lien du site: https://photographe-fb.netlify.app/
