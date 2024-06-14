@@ -4,15 +4,15 @@ site vitrine pour un photographe(charle cantin) avec galerie qui expose differan
 
 ## 🛠 compétences
   
--HTML.   
--CSS.  
+-HTML5.   
+-CSS3.  
 -Javascript.
 
 ## 🔗 le lien github du ripository
-https://github.com/fatimazohraz/siteWebPhotographeCharlesCantin
+https://github.com/fatimazohraz/photographe_galerie
 
 
 ## deployement
 j'ai deplayer le repository sur le site netlify:
- 
+
 lien du site: https://photographe-fb.netlify.app/
